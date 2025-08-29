@@ -1,4 +1,7 @@
-# HoH
-after you launch the .exe a black numpad icon should appear in your taskbar, RMB opens the options for you (ticked = turned on)
+# Home Office Helper
 
-HomeOfficeHelper to avoid MS-Teams or other communication platforms afk detection. presses numpad twice every 4 min (Teams triggers after ~5min.)
+a application which runs in the systemtray to avoid appearing as AFK on Teams
+
+When you run the HomeOfficeHelper.exe it will spawn in your Systray (bottom-right of your Windows PC).
+You then have 2 options:   a) activate it (activated = ticked)
+                           b) make is start on boot (activated = ticket)
